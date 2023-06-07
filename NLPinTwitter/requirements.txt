@@ -1,0 +1,3 @@
+nlplot==1.6.0
+pandas==1.4.2
+tweepy==4.12.1
